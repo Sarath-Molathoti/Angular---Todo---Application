@@ -1,0 +1,389 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --git-dir
+Open repository: /home/runner/frontend/todo
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/list-todos/list-todos.component.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/list-todos/list-todos.component.html
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.html
+> git show --textconv :src/app/list-todos/list-todos.component.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.ts
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/service/data/todo-data.service.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/service/data/todo-data.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/list-todos/list-todos.component.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/service/data/todo-data.service.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/service/data/todo-data.service.ts
+> git show --textconv :src/app/list-todos/list-todos.component.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.ts
+> git show --textconv :src/app/service/data/todo-data.service.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/service/data/todo-data.service.ts
+> git show --textconv :src/app/list-todos/list-todos.component.html
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/list-todos/list-todos.component.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.ts
+> git show --textconv :src/app/list-todos/list-todos.component.html
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.html
+> git show --textconv :src/app/service/data/todo-data.service.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/service/data/todo-data.service.ts
+> git show --textconv :src/app/list-todos/list-todos.component.html
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.html
+> git show --textconv :src/app/list-todos/list-todos.component.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.ts
+> git show --textconv :src/app/service/data/todo-data.service.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/service/data/todo-data.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/login/login.component.html
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/login/login.component.html
+> git show --textconv :src/app/list-todos/list-todos.component.html
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/service/data/todo-data.service.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/service/data/todo-data.service.ts
+> git show --textconv :src/app/list-todos/list-todos.component.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/service/data/todo-data.service.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/service/data/todo-data.service.ts
+> git show --textconv :src/app/list-todos/list-todos.component.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/service/data/todo-data.service.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/service/data/todo-data.service.ts
+> git show --textconv :src/app/list-todos/list-todos.component.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.ts
+> git show --textconv :src/app/service/data/todo-data.service.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/service/data/todo-data.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/list-todos/list-todos.component.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/list-todos/list-todos.component.html
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/login/login.component.html
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/login/login.component.html
+> git show --textconv :src/app/list-todos/list-todos.component.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/app-routing.module.ts
+> git cat-file -s d425c6f56b578db1e8d7f8fa2d6c90693ba5d4fb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/service/data/todo-data.service.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/service/data/todo-data.service.ts
+> git show --textconv :src/app/list-todos/list-todos.component.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/app-routing.module.ts
+> git cat-file -s d425c6f56b578db1e8d7f8fa2d6c90693ba5d4fb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/service/data/todo-data.service.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/service/data/todo-data.service.ts
+> git show --textconv :src/app/list-todos/list-todos.component.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/todo/todo.component.html
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/todo/todo.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/service/data/todo-data.service.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/service/data/todo-data.service.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/todo/todo.component.html
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/todo/todo.component.html
+> git show --textconv :src/app/todo/todo.component.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/todo/todo.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/todo/todo.component.html
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/todo/todo.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/list-todos/list-todos.component.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/list-todos/list-todos.component.ts
+> git show --textconv :src/app/todo/todo.component.html
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/todo/todo.component.html
+> git show --textconv :src/app/todo/todo.component.ts
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/todo/todo.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/todo/todo.component.html
+> git ls-files --stage -- /home/runner/frontend/todo/src/app/todo/todo.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
